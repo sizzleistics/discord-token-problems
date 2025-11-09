@@ -2,6 +2,8 @@
 
 Please run this to check your token
 
+To run it press ctrl + i on discord and paste it in. If it does not work make sure to allow pasting
+
 
 
 window.location.reload();
